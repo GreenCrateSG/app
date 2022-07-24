@@ -22,11 +22,12 @@
 
 <!-- - ❌ No Ads!!! -->
 
-- ⏲ CountDown↯ Anything
-- 📆 Quickly Import Calendar Events<br />
+- 📱 IoT Dashboard<br />
+- ⛅ Weather<br />
+- 📑 Wiki<br />
+- ⭐ Reward<br />
 - 🔔 Notification<br />
 - 🎯 Light/Dark Mode<br />
-- 🎨 Beautiful Theme & Accent<br />
 
 ## 🎗 Support
 

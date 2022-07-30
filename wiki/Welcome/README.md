@@ -1,3 +1,3 @@
 # Welcome to Wiki
 
-![Image Preview](../../readme-images/gallery/mockup.webp)
+![Image Preview](https://github.com/AjayShanker-geek/urban-farm/blob/master/readme-images/gallery/mockup.webp)

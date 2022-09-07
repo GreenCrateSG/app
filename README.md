@@ -1,4 +1,4 @@
-<h1 align="center"> <img height='25' alt='icon' src='readme-images/icon/icon_main.png'/>  GreenCrateSG</h1><p align="center"> 🌱 Hydroponic System made by NUS students</p>
+<h1 align="center"> <img height='25' alt='icon' src='readme-images/icon/icon.png'/>  GreenCrateSG</h1><p align="center"> 🌱 Hydroponic System made by NUS students</p>
 
 ![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat)
 

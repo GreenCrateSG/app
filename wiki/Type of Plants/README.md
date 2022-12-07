@@ -10,7 +10,7 @@
 ### Caixin
 
 
-
+ 
 
 ### Ceylon Spinach
 
@@ -18,18 +18,21 @@
 
 ### Chinese Spinach
 
-### kailan
+### Kailan
 
-### kale
+### Kale
 
 
-### kang kong
+### Kang Kong
 
 ### Lettuce
 
 ### Sweet Potato
 
 ### Xiao Bai Cai
+
+
+
 
 
 ## Fruiting Vegetables
@@ -48,7 +51,7 @@
 
 ### Long Bean
 
-### Pumpjin
+### Pumpkin
 
 ### Tomato
 

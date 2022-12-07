@@ -2,21 +2,10 @@
 
 **Source: National Parks Singapore**
 
-<!-- ## Nutrition -->
-
-<!-- ### Fruit
-
-- Low in fat and calories
-- High in fibre
-- Often high in natural sugars
-
-### Vegetable
-
-- Low in fat and calories
-- High in fibre
-- Starchy vegetables tend to be high in natiral sugars -->
 
 ## Leafy Vegetables
+
+
 
 ### Caixin
 
@@ -37,6 +26,7 @@
 ### Sweet Potato
 
 ### Xiao Bai Cai
+
 
 ## Fruiting Vegetables
 

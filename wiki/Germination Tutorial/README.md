@@ -6,7 +6,6 @@
 
 - Germination sponge
 - Propagator
-- Heat mat
 - Germination tray with dome
 - Rooting tonic
 - Compact florescent lamps

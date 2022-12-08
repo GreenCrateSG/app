@@ -116,7 +116,6 @@ Lettuce (Lactuca sativa) belongs to the same family as the Sunflower and Daisy, 
 -  Calcium
 -  Magnesium
 -  Potassium 
--  Sodium
 -  Anti-oxidants
 
 
@@ -156,6 +155,10 @@ Also known as Bok Choy, Xiao Bai Cai (Brassica rapa, Chinensis Group) is a herba
 
 
 
+
+
+
+
 ## Fruiting Vegetables
 Fruiting Vegetables are those vegetables that produce edible fruits after flowering. High in dietary fibre , vitamins , minerals and low in calories. Eating fruiting vegetables can lower blood pressure, heart diseases and certain canncers. 
 
@@ -164,16 +167,41 @@ Fruiting Vegetables are those vegetables that produce edible fruits after flower
 
 Depending on the variety, Bitter Gourd (Momordica charantia) may take 50 to 60 days to be ready for harvest.  
 
+- Vitamin A
+- Vitamin C
+- Iron
+- Zinc
+- Magnesium
+- Phosphorous
+- Anti-oxidants
+
 ### Brinjal
 ![Brinjal]( assets/Brinjal.jfif "Brinjal")
 
 Brinjal (Solanum melongena) is a herbaceous shrub. It is also known as Eggplant because the first variety grown out of Asia produced a white, egg-shaped fruit. It takes about 14 days to germinate, and 105 to 133 days to be ready for harvest.
 
+- Vitamin A
+- Vitamin C
+- Vitamin K
+- Iron
+- Calcium
+- Magnesium
+- Phosphorous
+- Potassium
+- Anti-oxidants
 
 ### Chilli
 ![ChIlli]( assets/Chilli.jpg "Chilli")
 
 Chilli (Capsicum annuum) is actually the same species as cayenne pepper and bell pepper. It has a herbaceous growth form. It takes about 14 days to germinate, and 105 to 133 days to be ready for harvest.
+
+- Vitamin A
+- Vitamin B
+- Vitamin C
+- Vitamin K
+- Potassium
+- Copper
+- Anti-oxidants
 
 
 ### Corn
@@ -181,11 +209,28 @@ Chilli (Capsicum annuum) is actually the same species as cayenne pepper and bell
 
 Corn (Zea mays) is a tall growing herbaceous growth form. There are many varieties of corn which produce kernels in different colours – black, bluish-grey, purple, green, red and even white! It takes four to six days to germinate, and 70 to 200 days to be ready for harvest. 
 
+- Vitamin B
+- Vitamin C
+- Vitamin E
+- Vitamin K
+- Magnesium
+- Potassium
+- Anti-oxidants
+
 ### Cucumber
 ![Cucumber]( assets/Cucumber.jpg "Cucumber")
 
 Grown throughout the tropics, Cucumber (Cucumis sativus) is a climber. It takes about three days to germinate, and 100 to 140 days to be ready for harvest.
 
+- Vitamin A
+- Vitamin C
+- Vitamin K
+- Iron
+- Calcium
+- Magnesium
+- Potassium
+- Manganese
+- Anti-oxidants
 
 ### Lady's Finger
 
@@ -193,17 +238,48 @@ Grown throughout the tropics, Cucumber (Cucumis sativus) is a climber. It takes 
 
 Related to Hibiscus, Lady’s-finger(Abelmoschus esculentus) is a herbaceous annual. The most common varieties produce green fruits, but there is also one that produces red fruits. This plant takes six to seven days to germinate, and 47 to 97 days to be ready for harvest.
 
+- Vitamin A
+- Vitamin B
+- Vitamin C
+- Vitamin K
+- Potassium
+- Calcium
+- Magnesium
+- Anti-oxidants
+  
 
 ### Long Bean
 ![Long Bean]( assets/LongBean.jpg "Long Bean")
 
 Long Bean (Vigna unguiculata) is a climber. This plant takes three to five days to germinate, and about 49 days to be ready for harvest.
 
+- Vitamin B
+- Vitamin C
+- Vitamin E
+- Vitamin K
+- Iron
+- Calcium
+- Copper
+- Magnesium
+- Manganese
+- Phosphorous
+- Anti-oxidants
+
 ### Pumpkin
 ![Pumpkin]( assets/Pumpkin.jfif "Pumpkin")
 
 Pumpkin (Cucurbita moschata) is a climber that produces separate male and female flowers on the same plant. It takes about seven days to germinate, and 90 to 120 days to be ready for harvest.
 
+- Vitamin A
+- Vitamin B
+- Vitamin C
+- Vitamin E
+- Vitamin K
+- Iron
+- Magnesium
+- Copper
+- Potassium
+- Anti-oxidants
 
 ### Tomato
 ![Tomato]( assets/Tomato.jfif "Tomato")
@@ -211,8 +287,27 @@ Pumpkin (Cucurbita moschata) is a climber that produces separate male and female
 Tomato (Solanum lycopersicum) is a herbaceous annual. There are many cultivated varieties, with
 cherry tomatoes being most commonly grown in Singapore. This plant takes about six days to germinate, and 77 to 105 days to be ready for harvest.
 
+- Vitamin B
+- Vitamin C
+- Vitamin K
+- Iron
+- Zinc
+- Magnesium
+- Potassium
+- Anti-oxidants
 
 ### Winter Melon
 ![Winter Melon]( assets/WinterMelon.jpg "Winter Melon")
 
 Winter Melon (Benincasa hispida) is a climber. It takes about seven days to germinate, and 90 to 120 days to be ready for harvest. The fruit has a wax coating that protects it from moisture loss.
+
+- Vitamin B
+- Vitamin C
+- Iron
+- Calcium
+- Zinc
+- Magnesium
+- Manganese
+- Phosphorous
+- Potassium
+- Anti-oxidants

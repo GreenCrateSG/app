@@ -330,12 +330,12 @@ The Curry Leaf (Murraya koenigii) plant grows well in fertile, loamy soil that d
 
 ### English Mint
 
-![](assets/.jpg "E")
+![English Mint](assets/EnglishMint.jpg "English Mint")
 The English Mint (Mentha spicata) is tolerant of most soil types, but thrives in moise soil. It is susceptible to aphids, rust and powdery mildew. They thrive in both full sun and semi-shade, and requires moderate watering. It can be propagated by division, seeds or stem cuttings. It's leaves can be used raw in salads, as a garnish or add flavours to teas, desserts and sauces if boiled.
 
-### India Borage
+### Indian Borage
 
-![English Mint](assets/EnglishMint.jpg "English Mint")
+![Indian Borage](assets/IndianBorage.jpg "Indian Borage")
 The Indian Borage (Plectranthus amboinicus) required sandy soil that drains well. It grows quickly, but its stems are susceptible to breakage. The plant thrives in semi-shade and requires moderate watering. It can be propagated by stem cuttings. Their leaves can be used to add flavour to meat and bean dishes, especially in Caribbean cuisine. Their flavour is described as being a combination of thyme and oregano.
 
 ### Laksa

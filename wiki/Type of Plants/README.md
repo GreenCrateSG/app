@@ -154,7 +154,7 @@ Also known as Bok Choy, Xiao Bai Cai (Brassica rapa, Chinensis Group) is a herba
 
 ## Fruiting Vegetables
 
-Fruiting Vegetables are those vegetables that produce edible fruits after flowering. High in dietary fibre , vitamins , minerals and low in calories. Eating fruiting vegetables can lower blood pressure, heart disea2ses and certain cancers.
+Fruiting Vegetables are those vegetables that produce edible fruits after flowering. High in dietary fibre , vitamins , minerals and low in calories. Eating fruiting vegetables can lower blood pressure, heart diseases and certain cancers.
 
 ### Bitter Gourd
 

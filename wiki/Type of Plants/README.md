@@ -160,7 +160,7 @@ Also known as Bok Choy, Xiao Bai Cai (Brassica rapa, Chinensis Group) is a herba
 
 
 ## Fruiting Vegetables
-Fruiting Vegetables are those vegetables that produce edible fruits after flowering. High in dietary fibre , vitamins , minerals and low in calories. Eating fruiting vegetables can lower blood pressure, heart diseases and certain canncers. 
+Fruiting Vegetables are those vegetables that produce edible fruits after flowering. High in dietary fibre , vitamins , minerals and low in calories. Eating fruiting vegetables can lower blood pressure, heart disea2ses and certain canncers. 
 
 ### Bitter Gourd
 ![BitterGourd]( assets/BitterGourd.jpg "BitterGourd")
@@ -311,3 +311,37 @@ Winter Melon (Benincasa hispida) is a climber. It takes about seven days to germ
 - Phosphorous
 - Potassium
 - Anti-oxidants
+
+
+## Culinary Herbs and Spices
+
+
+
+
+### Chives
+
+Chives (Allium tuberosum) grow well in fertile, loamy soil that drains well. To prevent excessive spreading of the plant, remove the flowers before it sets seed. This plant is hardy and resistant to most pests and diseases. The plant thrives in both full sun and semi-shade, and requires moderate watering. It can be propogated by division or seeds.
+
+
+
+### Curry Leaf Plant
+
+The Curry Leaf (Murraya koenigii) plant grows well in fertile, loamy soil that drains well. The plant thrives in full sun and requries moderate watering. It can be propagated by seeds, which can be obtained from mature seed pods. Sow seeds immediately after harvesting as they only remain viable up to three weeks. Their leaves produvce a distincitve oil that is used to flavour and enhance the aroma of a wide variety of dishes including curries, dal, soups and snacks. 
+
+
+### English Mint
+
+The English Mint (Mentha spicata) is tolerant of most soil types, but thrives in moise soil. It is susceptible to aphids, rust and powdery mildew. They thrive in both full sun and semi-shade, and requires moderate watering. It can be propagated by division, seeds or stem cuttings. It's leaves can be used raw in salads, as a garnish or add flavours to teas, desserts and sauces if boiled.
+
+
+
+### India Borage
+ 
+The Indian Borage (Plectranthus amboinicus) required sandy soil that drains well. It grows quickly, but its stems are susceptible to breakage. The plant thrives in semi-shade and requires moderate watering. It can be propagated by stem cuttings. Their leaves can be used to add flavour to meat and bean dishes, especially in Carribiean cuisine. Their flavour is described as being a combination of thyme and oregano. 
+
+
+### Laksa 
+Laksa ( Persicaria odorata ), also known as Daun Kesum in the Malay community is commonly added to the signature local dish _laksa_ . It grows best in well-draining soil that is kept consistently moist. It can be grown indoors on a sunny windowsill.  This plant thribes in both full sun and semi-shade and needs lots of water. It can be propagated by seeds or stem cuttings.
+
+
+

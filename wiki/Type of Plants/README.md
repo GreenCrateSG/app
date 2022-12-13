@@ -315,55 +315,141 @@ Winter Melon (Benincasa hispida) is a climber. It takes about seven days to germ
 
 ## Culinary Herbs and Spices
 
-Growing your own herbs and spices is a fun and practical way to produce fresh seasonings to your own cookings. They
-add flavor, aroma and visual appeal to your food and are nutritious too!
+Growing your own herbs and spices is a fun and practical way to produce fresh seasonings to your own cookings. They add flavor, aroma and visual appeal to your food. Though these plants are usually consumed in trace amounts, they also contain nutrients too!
 
 ### Chives
 
 ![Chives](assets/Chives.jpg "Chives")
 Chives (Allium tuberosum) grow well in fertile, loamy soil that drains well. To prevent excessive spreading of the plant, remove the flowers before it sets seed. This plant is hardy and resistant to most pests and diseases. The plant thrives in both full sun and semi-shade, and requires moderate watering. It can be propagated by division or seeds.
 
+- Vitamin A
+- Vitamin C
+- Vitamin K
+- Calcium
+- Anti-oxidants
+
 ### Curry Leaf Plant
 
 ![Curry Leaf Plant](assets/CurryLeafPlant.jpg "Curry Leaf Plant")
 The Curry Leaf (Murraya koenigii) plant grows well in fertile, loamy soil that drains well. The plant thrives in full sun and requires moderate watering. It can be propagated by seeds, which can be obtained from mature seed pods. Sow seeds immediately after harvesting as they only remain viable up to three weeks. Their leaves produce a distinctive oil that is used to flavour and enhance the aroma of a wide variety of dishes including curries, dal, soups and snacks.
+
+- Vitamin A
+- Vitamin C
+- Magnesium
+- Manganese
+- Zinc
+- Iron
+- Phosphorus
+- Calcium
+- Anti-oxidants
 
 ### English Mint
 
 ![English Mint](assets/EnglishMint.jpg "English Mint")
 The English Mint (Mentha spicata) is tolerant of most soil types, but thrives in moise soil. It is susceptible to aphids, rust and powdery mildew. They thrive in both full sun and semi-shade, and requires moderate watering. It can be propagated by division, seeds or stem cuttings. It's leaves can be used raw in salads, as a garnish or add flavours to teas, desserts and sauces if boiled.
 
+- Vitamin A
+- Vitamin C
+- Magnesium
+- Iron
+- Potassium
+- Calcium
+- Anti-oxidants
+
 ### Indian Borage
 
 ![Indian Borage](assets/IndianBorage.jpg "Indian Borage")
 The Indian Borage (Plectranthus amboinicus) required sandy soil that drains well. It grows quickly, but its stems are susceptible to breakage. The plant thrives in semi-shade and requires moderate watering. It can be propagated by stem cuttings. Their leaves can be used to add flavour to meat and bean dishes, especially in Caribbean cuisine. Their flavour is described as being a combination of thyme and oregano.
+
+- Vitamin A
+- Vitamin C
+- Magnesium
+- Iron
+- Zinc
+- Copper
+- Sodium
+- Potassium
+- Anti-oxidants
 
 ### Laksa
 
 ![Laksa](assets/Laksa.jpg "Laksa")
 Laksa (Persicaria odorata), also known as Daun Kesum in the Malay community is commonly added to the signature local dish _laksa_ . It grows best in well-draining soil that is kept consistently moist. It can be grown indoors on a sunny windowsill. This plant thrives in both full sun and semi-shade and needs lots of water. It can be propagated by seeds or stem cuttings.
 
+- Vitamin A
+- Vitamin B
+- Vitamin C
+- Magnesium
+- Iron
+- Sodium
+- Phosphorus
+- Copper
+- Zinc
+- Calcium
+- Anti-oxidants
+
 ### Lemongrass
 
 ![Lemongrass](assets/Lemongrass.jpg "Lemongrass")
 Lemongrass (Cymbopogon citratus) grows quickly and produces many stalks if grown in full sunlight. It prefers moist, well-draining loamy soils, but will tolerate most soil types. The plant can be divided into clusters , with each cluster planted in different areas. This plant thrives in full sunlight and requires moderate watering.
+
+- Vitamin A
+- Vitamin C
+- Iron
+- Calcium
+- Potassium
+- Manganese
+- Magnessium
+- Anti-oxidants
 
 ### Pandan
 
 ![Pandan](assets/Pandan.jpg "Pandan")
 Pandan (Pandanus amaryllifolius) is a very common and easily grown plant in Singapore , where it flourishes naturally on slopes with moist soil. To maintain the plant as a shrub , regularly harvest the leaves and water generously. This species is susceptible to the Pandanus Mealybug (Laminococcus panddani). This plant thrives in semi-shade and needs lots of water. It can be propagated by division. Their leaves can be steamed to extract the juice, which can add fragrance to teas, desserts and even jams.
 
+- Vitamin A
+- Vitamin C
+- Iron
+- Calcium
+- Phosphorus
+- Anti-oxidants
+
 ### Sawtooth Coriander
 
 ![Sawtooth Coriander](assets/SawtoothCoriander.jpg "Sawtooth Coriander")
 Sawtooth Coriander (Eryngium foetidum) grows well in sandy loamy soil that drains well. It is hardy and resistant to most pests and diseases. The plant thrives well in both full sun and semi-shade, and requires moderate watering. It can be propagated by division or seeds. The leaves have a similar but stronger flavour than Coriander (Coriandrum sativum), and are used similarly in soups and stir-fries.
+
+- Vitamin C
+- Vitamin K
+- Iron
+- Calcium
+- Manganese
+- Magnessium
+- Anti-oxidants
 
 ### Thai Basil
 
 ![Thai Basil](assets/ThaiBasil.jpg "Thai Basil")
 Thai Basil (Ocimum basilcum) grows best in a full sun and semi-shade location with fertile soil that drains well. It can be grown indoors if it receives at least six hours of sunlight each day. It also requires moderate watering and can be propagated by seeds or stem cuttings. The leaves can be used in soups or stir-fried with meat.
 
+- Vitamin A
+- Vitamin C
+- Iron
+- Calcium
+- Sodium
+- Potassium
+- Anti-oxidants
+
 ### Turmeric
 
 ![Turmeric](assets/Turmeric.jpg "Turmeric")
 Turmeric (Curcuma onga) grows well in fertile, loamy soil that drains well. It thrives in both full sun and semi-shade, and requires lots of water. It can be propagated by division. The rhizomes can be used in soups, curry bases and teas . Its leaves can also be used to wrap fish paste to give a pleasant scent to the dish.
+
+- Vitamin B
+- Vitamin C
+- Vitamin D
+- Iron
+- Calcium
+- Potassium
+- Manganese
+- Anti-oxidants

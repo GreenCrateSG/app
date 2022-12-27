@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Caixin",
+    "germination": 5,
+    "harvest": 30
+  },
+  {
+    "name": "Chinese Spinach",
+    "germination": 3,
+    "harvest": 21
+  }
+]

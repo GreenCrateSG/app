@@ -1,12 +1,212 @@
 [
   {
     "name": "Caixin",
-    "germination": 5,
-    "harvest": 30
+    "germination": 3,
+    "germination_max": 5,
+    "harvest": 30,
+    "harvest_max": 40
+  },
+  {
+    "name": "Ceylon Spinach",
+    "germination": 7,
+    "germination_max": 8,
+    "harvest": 42,
+    "harvest_max": 56
+  },
+  {
+    "name": "Chinese Mustard",
+    "germination": 3,
+    "germination_max": 5,
+    "harvest": 40,
+    "harvest_max": 41
   },
   {
     "name": "Chinese Spinach",
     "germination": 3,
-    "harvest": 21
+    "germination_max": 5,
+    "harvest": 21,
+    "harvest_max": 22
+  },
+  {
+    "name": "kailan",
+    "germination": 3,
+    "germination_max": 5,
+    "harvest": 21,
+    "harvest_max": 55
+  },
+  {
+    "name": "kale",
+    "germination": 3,
+    "germination_max": 5,
+    "harvest": 35,
+    "harvest_max": 36
+  },
+  {
+    "name": "kang kong",
+    "germination": 3,
+    "germination_max": 4,
+    "harvest": 21,
+    "harvest_max": 22
+  },
+  {
+    "name": "Lettuce",
+    "germination": 4,
+    "germination_max": 5,
+    "harvest": 56,
+    "harvest_max": 57
+  },
+  {
+    "name": "Sweet Potato",
+    "germination": 6,
+    "germination_max": 15,
+    "harvest": 120,
+    "harvest_max": 121
+  },
+  {
+    "name": "Xiao Bai Cai",
+    "germination": 3,
+    "germination_max": 4,
+    "harvest": 40,
+    "harvest_max": 45
+  },
+  {
+    "name": "Bitter Gourd",
+    "germination": 3,
+    "germination_max": 5,
+    "harvest": 50,
+    "harvest_max": 60
+  },
+  {
+    "name": "Bringal",
+    "germination": 14,
+    "germination_max": 15,
+    "harvest": 105,
+    "harvest_max": 133
+  },
+  {
+    "name": "Chilli",
+    "germination": 14,
+    "germination_max": 15,
+    "harvest": 105,
+    "harvest_max": 133
+  },
+  {
+    "name": "Corn",
+    "germination": 4,
+    "germination_max": 6,
+    "harvest": 70,
+    "harvest_max": 120
+  },
+  {
+    "name": "Cucumber",
+    "germination": 3,
+    "germination_max": 4,
+    "harvest": 100,
+    "harvest_max": 140
+  },
+  {
+    "name": "Lady's Finger",
+    "germination": 6,
+    "germination_max": 7,
+    "harvest": 47,
+    "harvest_max": 97
+  },
+  {
+    "name": "Long Bean",
+    "germination": 3,
+    "germination_max": 5,
+    "harvest": 49,
+    "harvest_max": 50
+  },
+  {
+    "name": "Pumpkin",
+    "germination": 7,
+    "germination_max": 8,
+    "harvest": 90,
+    "harvest_max": 120
+  },
+  {
+    "name": "Tomato",
+    "germination": 6,
+    "germination_max": 7,
+    "harvest": 77,
+    "harvest_max": 105
+  },
+  {
+    "name": "Winter Melon",
+    "germination": 7,
+    "germination_max": 8,
+    "harvest": 90,
+    "harvest_max": 120
+  },
+  {
+    "name": "Chives",
+    "germination": 7,
+    "germination_max": 14,
+    "harvest": 30,
+    "harvest_max": 31
+  },
+  {
+    "name": "Curry Leaf Plant",
+    "germination": 10,
+    "germination_max": 15,
+    "harvest": 365,
+    "harvest_max": 366
+  },
+  {
+    "name": "English Mint",
+    "germination": 10,
+    "germination_max": 16,
+    "harvest": 90,
+    "harvest_max": 91
+  },
+  {
+    "name": "Indian Borage",
+    "germination": 7,
+    "germination_max": 10,
+    "harvest": 56,
+    "harvest_max": 57
+  },
+  {
+    "name": "Laksa",
+    "germination": 14,
+    "germination_max": 15,
+    "harvest": 28,
+    "harvest_max": 42
+  },
+  {
+    "name": "Lemongrass",
+    "germination": 14,
+    "germination_max": 25,
+    "harvest": 75,
+    "harvest_max": 100
+  },
+  {
+    "name": "Pandan",
+    "germination": 310,
+    "germination_max": 372,
+    "harvest": 124,
+    "harvest_max": 186
+  },
+  {
+    "name": "Sawtooth Coriander",
+    "germination": 14,
+    "germination_max": 28,
+    "harvest": 120,
+    "harvest_max": 196
+  },
+  {
+    "name": "Thai Basil",
+    "germination": 28,
+    "germination_max": 29,
+    "harvest": 21,
+    "harvest_max": 28
+  },
+  {
+    "name": "Turmeric",
+    "germination": 186,
+    "germination_max": 310,
+    "harvest": 248,
+    "harvest_max": 310
   }
 ]

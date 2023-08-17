@@ -1,6 +1,6 @@
 # Welcome to Wiki
 
-![Image Test](assets/system.png)
+![Image Test](assets/Gen_2_render.png)
 
 🌱 Hydroponic System made by NUS students
 
